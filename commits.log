@@ -1,0 +1,98 @@
+commit 91d9f8dae5b101111a5d3c868dfe87033446c7d7
+Author: Simon Gutierrez <psydance.dev@gmail.com>
+Date:   Sun Jan 15 01:48:05 2023 -0300
+
+    Agregando 2 párrafos
+
+commit 418806ab20160bd84ae572c1c2a5e373b609b033
+Merge: dcb39e1 785b36c
+Author: Simon Gutierrez <psydance.dev@gmail.com>
+Date:   Sun Jan 15 01:45:58 2023 -0300
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit dcb39e13e63f52cdbaa61c9af0e081cb8a568436
+Author: Simon Gutierrez <psydance.dev@gmail.com>
+Date:   Sun Jan 15 01:31:15 2023 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 785b36c24f1a0af98322515e71b550144f889981
+Author: Simon Gutierrez <psydance.dev@gmail.com>
+Date:   Sun Jan 15 01:31:15 2023 -0300
+
+    Agregando las estaciones de año
+
+commit 76c2b02b2320be90693b7e9fe47b99b746b351bf
+Merge: 37e3176 c8028ff
+Author: Simon Gutierrez <psydance.dev@gmail.com>
+Date:   Sat Jan 14 17:13:07 2023 -0300
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit c8028ff7edc02ae6c34f8a029fc7e5b06bfa0c3f
+Author: Simon Gutierrez <psydance.dev@gmail.com>
+Date:   Sat Jan 14 17:06:44 2023 -0300
+
+    Agregando index.js al index.html
+
+commit 37e3176d25ccdf3db9ae9bcb7a72622c1eda63ac
+Author: Simon Gutierrez <psydance.dev@gmail.com>
+Date:   Sat Jan 14 17:04:28 2023 -0300
+
+    Agregando style.css al index.html
+
+commit 3192bda084ec3fc44cc27c939b17857767e44044
+Merge: bd5eee8 cd3db29
+Author: Simon Gutierrez <psydance.dev@gmail.com>
+Date:   Sat Jan 14 16:55:27 2023 -0300
+
+    Merge branch 'js'
+
+commit cd3db29827d53ef5e47089760129276e11ab0797
+Author: Simon Gutierrez <psydance.dev@gmail.com>
+Date:   Wed Jan 11 03:21:57 2023 -0300
+
+    Creando index.js
+
+commit bd5eee80f652735eb1440d956533a96a2a730687
+Author: Simon Gutierrez <psydance.dev@gmail.com>
+Date:   Wed Jan 11 03:17:13 2023 -0300
+
+    Creando style.css
+
+commit 9417be7f7aad7a3f352049fa5e81b85a7bcfcdf6
+Author: Simon Gutierrez <psydance.dev@gmail.com>
+Date:   Wed Jan 11 03:12:57 2023 -0300
+
+    Creando index.html
+
+commit 312a35d5abe37d16d56da070a7be68791f7fafb1
+Author: Simon Gutierrez <psydance.dev@gmail.com>
+Date:   Wed Jan 11 02:59:37 2023 -0300
+
+    Ignorando archivos .exe
+
+commit cae22c8742587ba012bf64ecbc5cd000bf3fe293
+Author: Simón Gutiérrez - PsydanceDev <122326526+PsydanceDev@users.noreply.github.com>
+Date:   Tue Jan 10 17:54:11 2023 -0300
+
+    Creando licencia del repositorio
+
+commit 9275c84a43734917eb841a9551db7e7880fa7c9a
+Author: Simon Gutierrez <psydance.dev@gmail.com>
+Date:   Tue Jan 10 17:04:53 2023 -0300
+
+    Agregando más contenido al README
+
+commit 6a5175586697d489f31ef2d6d6ade884bfc47908
+Author: Simon Gutierrez <psydance.dev@gmail.com>
+Date:   Tue Jan 10 16:52:40 2023 -0300
+
+    Agregando contenido incial al README
+
+commit 585fc4a85ea051fc89986ef1a9e7ae55b9dabcbe
+Author: Simon Gutierrez <psydance.dev@gmail.com>
+Date:   Tue Jan 10 16:47:37 2023 -0300
+
+    Primer commit
