@@ -2,6 +2,6 @@
 
 Hola soy PsydanceDev, programador en proceso.
 
-Agregando más contenido al _README_
+### Aprendiendo sobre Git...
 
-Este commit es para oficializar nuestra versión **1.0.0**.
+![Flujo de Git](git-flow.png)
